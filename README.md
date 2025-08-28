@@ -13,3 +13,9 @@ and test antiddos
 
 
 #theisobhan new generation
+
+# How to run
+
+1. download requirements
+2. Extract zip file
+3. click on start.py
